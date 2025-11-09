@@ -1,3 +1,26 @@
+# Integrantes de Grupo
+## Nombre: Cajero Cano Joselyn Floridalma Carné: 202106708
+## Nombre: Reyes Tzi Roberto Yovani Carné: 202305747
+## Nombre: Palax Sajquiy Laura Leticia Carné: 202306149
+
+# DESCRIPCIÓN DEL PROYECTO
+### EL proyecto se basa en acoplarse a atención a clientes para alguna empresa, cuenta con inicio de sesión, y con privilegios de Usuario-Administrador o Usuario-Agente(Agregar,editar,eliminar y ver la cantidad de usuarios), y como usuario-Cliente (solo puede ver sus ticket)
+
+# Usuarios y contraseñas para ingresar al sistema 
+
+## Usuario-Administrador (admin@gmail.com contraseña:123)
+## Usuario-Agente (agente@gmail.com contraseña:1234)
+## Usuario-Cliente (cliente@gmail.com contraseña:12345)
+
+## la base de datos se llama proyecto_atencion_al_cliente.MSql
+
+## enlace https://drive.google.com/file/d/1cK3iRC5z1JbcUF_rr3s_XAGH7yI0_0d4/view?usp=sharing
+
+
+
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
@@ -58,3 +81,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
